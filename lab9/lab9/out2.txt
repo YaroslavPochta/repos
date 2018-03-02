@@ -1,0 +1,5 @@
+      Name       Average_price
+
+     Apple                 259
+      Book                 193
+       Pen                 262

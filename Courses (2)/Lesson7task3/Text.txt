@@ -1,0 +1,55 @@
+#pragma warning (disable:4996)
+#include <iostream>
+#include <fstream>
+using namespace std;
+////////////////////////////////////////////////
+int searchingWordInText(char **container, int size, char *token)
+{
+	for (int i = 0; i < size; i++)
+	{
+		if (strcmp(container[i], token) == 0)
+			return i;
+	}
+	return -1;
+}
+///////////////////////////////////////////////
+int main()
+{
+	int n = 0;
+	char *words[150];
+	int counts[150];
+	char buf[150];
+
+	ifstream fin("Text.txt");
+	if (!fin)
+	{
+		cout << "Error";
+		return 0;
+	}
+	char *token;
+	char sep[] = " ,\|'.;:\t\n(){}[]</>?!";
+	while (fin.getline(buf, 150))
+	{
+		token = strtok(buf, sep);
+		while (token != NULL)  //обработка слова
+		{
+			//cout << token << endl;
+			int i = searchingWordInText(words, n, token);
+			if (i == -1)
+			{
+				words[n] = new char[strlen(token)+1];
+				strcpy(words[n], token);
+				counts[n] = 1;
+				++n;
+			}
+			else ++(counts[i]);
+			token = strtok(NULL, sep);
+		}
+	}
+
+	for (int i = 0; i < n; i++)
+		cout << words[i] << " - " << counts[i] << " times" << endl;
+	
+	system("pause");
+	return 0;
+}

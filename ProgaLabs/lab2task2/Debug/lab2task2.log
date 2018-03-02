@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\yaroslav\source\repos\progalabs\lab2task2\source.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\progalabs\lab2task2\source.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\progalabs\lab2task2\source.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\progalabs\lab2task2\source.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\progalabs\lab2task2\source.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2task2.vcxproj -> C:\Users\Yaroslav\source\repos\ProgaLabs\Debug\lab2task2.exe

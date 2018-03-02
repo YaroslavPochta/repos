@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\yaroslav\source\repos\kp2\kp2\source.cpp(11): warning C4930: S v(S (__cdecl *)(void)): функция с прототипом не вызвана (предполагалось определение переменной?)
+  KP2.vcxproj -> C:\Users\Yaroslav\source\repos\KP2\Debug\KP2.exe

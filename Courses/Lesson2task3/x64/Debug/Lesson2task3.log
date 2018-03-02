@@ -1,0 +1,4 @@
+﻿  SimpleNumber.cpp
+c:\users\ярослав почта\source\repos\courses\lesson2task3\simplenumber.cpp(12): warning C4715: isItSimple: значение возвращается не при всех путях выполнения
+  Lesson2task3.vcxproj -> C:\Users\Ярослав Почта\source\repos\Courses\x64\Debug\Lesson2task3.exe
+  Lesson2task3.vcxproj -> C:\Users\Ярослав Почта\source\repos\Courses\x64\Debug\Lesson2task3.pdb (Partial PDB)

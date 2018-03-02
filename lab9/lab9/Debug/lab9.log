@@ -1,0 +1,13 @@
+﻿  Source.cpp
+  ProductsList.cpp
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(163): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(191): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(86): warning C4715: producerAndNameCompare: значение возвращается не при всех путях выполнения
+c:\users\yaroslav\source\repos\lab9\lab9\productslist.cpp(92): warning C4715: priceAndNameCompace: значение возвращается не при всех путях выполнения
+  lab9.vcxproj -> C:\Users\Yaroslav\source\repos\lab9\Debug\lab9.exe

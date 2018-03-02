@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\yaroslav\source\repos\week7lab7\task2\source.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\week7lab7\task2\source.cpp(99): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav\source\repos\week7lab7\task2\source.cpp(78): warning C4715: operation: значение возвращается не при всех путях выполнения
+  task2.vcxproj -> C:\Users\Yaroslav\source\repos\Week7lab7\Debug\task2.exe

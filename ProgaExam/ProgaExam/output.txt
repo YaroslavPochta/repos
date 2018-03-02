@@ -1,0 +1,10 @@
+Left hand robot's power is 1
+Left hand robot's power is 2
+
+
+Left hand robot's power is 1
+
+
+Left hand robot's power is 2
+
+

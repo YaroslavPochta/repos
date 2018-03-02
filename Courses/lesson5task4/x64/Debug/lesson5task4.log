@@ -1,0 +1,5 @@
+﻿  lenghtOfTheMaxWord.cpp
+c:\users\ярослав почта\source\repos\courses\lesson5task4\lenghtofthemaxword.cpp(21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ярослав почта\source\repos\courses\lesson5task4\lenghtofthemaxword.cpp(22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lesson5task4.vcxproj -> C:\Users\Ярослав Почта\source\repos\Courses\x64\Debug\lesson5task4.exe
+  lesson5task4.vcxproj -> C:\Users\Ярослав Почта\source\repos\Courses\x64\Debug\lesson5task4.pdb (Partial PDB)

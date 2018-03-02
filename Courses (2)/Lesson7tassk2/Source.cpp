@@ -1,0 +1,68 @@
+#pragma warning (disable:4996)
+#include <iostream>
+#include <fstream>
+using namespace std;
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void readFromFile(char *filename, int **matr, int &n, int &m)
+{
+	ifstream fin(filename);
+	fin >> n >> m;
+	for (int i = 0; i < n; i++)
+		for (int j = 0; j < m; j++)
+			fin >> matr[i][j];
+}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void writeToConsole(int **matr, int &n, int &m)
+{
+	for (int i = 0; i < n; i++)
+		for (int j = 0; j < m; j++)
+		{
+			cout << matr[i][j] << " ";
+			if (j == (m - 1)) cout << endl;
+		}
+}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void MatrBubbleSort(int *arr, int size, bool flAscend)
+{
+	for (int curSize = size; curSize > 1; --curSize)
+		for (int i = 0; i < curSize - 1; i++)
+			if (((arr[i] > arr[i + 1]) && (flAscend)) || ((!flAscend) && (arr[i]<arr[i + 1])))
+				swap(arr[i], arr[i + 1]);
+
+}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void swapArrays(int *arr1, int *arr2, int size)
+{
+	for (int i = 0; i < size; i++)
+		swap(arr1[i], arr2[i]);
+}
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void changeMatr(int **matr, int &n, int &m)
+{
+	for (int i = 0; i < (n / 2); i++)
+		swapArrays(matr[i], matr[n - 1 - i], m);
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+int main()
+{
+	int **dynArray;
+	int n, m;
+
+	readFromFile("in.txt", dynArray, n, m);
+
+	writeToConsole(dynArray, n, m);
+	cout << "\n\n\n\nSorted array:\n";
+	for (int i = 0; i < n; i++)
+		MatrBubbleSort(dynArray[i], m, false);
+	writeToConsole(dynArray, n, m);
+
+	cout << "\n\n\n\nChanged array:\n";
+	swapArrays(dynArray[1], dynArray[2], m);
+	writeToConsole(dynArray, n, m);
+
+	cout << "\n\n\n\nChanged array:\n";
+	changeMatr(dynArray, n, m);
+	writeToConsole(dynArray, n, m);
+	system("pause");
+	return 0;
+}

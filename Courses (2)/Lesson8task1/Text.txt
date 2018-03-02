@@ -1,0 +1,6 @@
+5
+Ilon 9 10 6
+Mark 8 7 2 
+John 7 2 6
+Petrov 7 5 3
+Ishnev 8 9 6

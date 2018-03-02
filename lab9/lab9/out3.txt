@@ -1,0 +1,8 @@
+           Producer   Number of names:
+
+                  by                   2
+                  ch                   2
+                 ger                   1
+                 rus                   2
+                 ukr                   1
+                 usa                   2

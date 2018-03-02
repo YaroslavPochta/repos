@@ -1,0 +1,10 @@
+9
+100			Ivanov				4567		Volvo
+101			Smirnov				3245		Maz
+28			Agerda				8536		Volvo
+100			Smirnov				7532		Wolksvagen
+28			Leonovich			1963		Maz
+115			Gradintsky			7532		Wolkswagen
+107			Novitsky			9060		Maz
+100			Yarov				8536		Volvo
+108			Ivanov				4567		Volvo

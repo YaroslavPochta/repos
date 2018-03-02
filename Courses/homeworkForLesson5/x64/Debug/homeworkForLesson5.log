@@ -1,0 +1,6 @@
+﻿  functions.cpp
+c:\users\ярослав почта\source\repos\courses\homeworkforlesson5\functions.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ярослав почта\source\repos\courses\homeworkforlesson5\functions.cpp(88): error C2065: i: необъявленный идентификатор
+c:\users\ярослав почта\source\repos\courses\homeworkforlesson5\functions.cpp(94): error C2181: недопустимый else без парного if
+  IsItSortedArray.cpp
+  Создание кода...

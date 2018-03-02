@@ -1,0 +1,10 @@
+9
+1	cicrle		rose carnation gladiolus camomile
+2	square		camomile rose 
+3	circle		gladiolus camomile
+4	rhombus		carnation rose gladiolus
+5	square		carnation  gladiolus camomile
+6	square		rose camomile
+7	circle		carnation gladiolus
+8	rhombus		rose gladiolus camomile
+9	rhombus		carnation rose

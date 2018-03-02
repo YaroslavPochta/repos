@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\yaroslav\source\repos\educatepractice\lab2task2\source.cpp(60): warning C4101: counter: неиспользованная локальная переменная
+  Lab2task2.vcxproj -> C:\Users\Yaroslav\source\repos\EducatePractice\Debug\Lab2task2.exe

@@ -1,0 +1,10 @@
+right armed robot, F = 33
+	left armed robot, F = 34
+cnt = 1
+
+left armed robot, F = 76543
+left armed robot, F = 34
+right armed robot, F = 33
+left armed robot, F = 9876
+left armed robot, F = 3
+left armed robot, F = 9876543

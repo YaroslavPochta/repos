@@ -1,0 +1,8 @@
+7
+petrov		3		9 8 9 10 9
+smirnov		3		3 5 4 6 5 
+gavrilov	4		9 3 4 6 8 
+cosarov		7		3 6 9 8 6
+barinov		6		7 5 4 9 7
+lavrov		4		4 5 6 8 9
+lichkov		4		7 6 5 8 8 

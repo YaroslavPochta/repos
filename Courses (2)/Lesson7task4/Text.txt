@@ -1,0 +1,39 @@
+
+	int n = 0;
+	char *words[150];
+	int counts[150];
+	char buf[150];
+
+	ifstream fin("Text.txt");
+	if (!fin)
+	{
+		cout << "Error";
+		return 0;
+	}
+	char *token;
+	char sep[] 
+	while (fin.getline(buf, 150))
+	{
+		token = strtok(buf, sep);
+		while (token != NULL)  
+		{
+			//cout << token << endl;
+			int i = searchingWordInText(words, n, token);
+			if (i == -1)
+			{
+				words[n] = new char[strlen(token)+1];
+				strcpy(words[n], token);
+				counts[n] = 1;
+				++n;
+			}
+			else ++(counts[i]);
+			token = strtok(NULL, sep);
+		}
+	}
+
+	for (int i = 0; i < n; i++)
+		cout << words[i] << " - " << counts[i] << " times" << endl;
+	
+	system("pause");
+	return 0;
+}

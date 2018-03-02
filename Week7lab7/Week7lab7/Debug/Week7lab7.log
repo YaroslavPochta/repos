@@ -1,0 +1,2 @@
+﻿  task1.cpp
+c:\users\yaroslav\source\repos\week7lab7\week7lab7\task1.cpp(63): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.

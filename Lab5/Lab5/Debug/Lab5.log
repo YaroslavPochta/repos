@@ -1,0 +1,65 @@
+﻿  Task5.cpp
+  Task4.cpp
+  Task3.cpp
+  Task2.cpp
+  Task1.cpp
+  Functions.cpp
+  Создание кода...
+c:\users\yaroslav\source\repos\lab5\lab5\functions.cpp(83): warning C4715: isItSimple: значение возвращается не при всех путях выполнения
+c:\users\yaroslav\source\repos\lab5\lab5\functions.cpp(83): warning C4715: isItSimple: значение возвращается не при всех путях выполнения
+c:\users\yaroslav\source\repos\lab5\lab5\functions.cpp(83): warning C4715: isItSimple: значение возвращается не при всех путях выполнения
+c:\users\yaroslav\source\repos\lab5\lab5\functions.cpp(83): warning C4715: isItSimple: значение возвращается не при всех путях выполнения
+c:\users\yaroslav\source\repos\lab5\lab5\functions.cpp(83): warning C4715: isItSimple: значение возвращается не при всех путях выполнения
+Task2.obj : error LNK2005: "void __cdecl InputingArray(int * const,int)" (?InputingArray@@YAXQAHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int __cdecl deletingSimpleNumerals(int *,int)" (?deletingSimpleNumerals@@YAHPAHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int __cdecl indexOfMinElementInArray(int *,int,int)" (?indexOfMinElementInArray@@YAHPAHHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "void __cdecl initRandom(int * const,int,int,int)" (?initRandom@@YAXQAHHHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "bool __cdecl isItSimple(int)" (?isItSimple@@YA_NH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int __cdecl isSubstring(int *,int *,int,int)" (?isSubstring@@YAHPAH0HH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int * __cdecl medianOfArray(int *,int,int &)" (?medianOfArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int __cdecl minInTheArray(int * const,int,int)" (?minInTheArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "void __cdecl output(int *,int,char * const)" (?output@@YAXPAHHQAD@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int __cdecl searchingValueInArray(int * const,int,int)" (?searchingValueInArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int * __cdecl selectionSort(int *,int,int &)" (?selectionSort@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "void __cdecl selectionSortV(int *,int)" (?selectionSortV@@YAXPAHH@Z) уже определен в Functions.obj
+Task2.obj : error LNK2005: "int * __cdecl simpleNumeralsArray(int *,int,int &)" (?simpleNumeralsArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "void __cdecl InputingArray(int * const,int)" (?InputingArray@@YAXQAHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int __cdecl deletingSimpleNumerals(int *,int)" (?deletingSimpleNumerals@@YAHPAHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int __cdecl indexOfMinElementInArray(int *,int,int)" (?indexOfMinElementInArray@@YAHPAHHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "void __cdecl initRandom(int * const,int,int,int)" (?initRandom@@YAXQAHHHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "bool __cdecl isItSimple(int)" (?isItSimple@@YA_NH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int __cdecl isSubstring(int *,int *,int,int)" (?isSubstring@@YAHPAH0HH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int * __cdecl medianOfArray(int *,int,int &)" (?medianOfArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int __cdecl minInTheArray(int * const,int,int)" (?minInTheArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "void __cdecl output(int *,int,char * const)" (?output@@YAXPAHHQAD@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int __cdecl searchingValueInArray(int * const,int,int)" (?searchingValueInArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int * __cdecl selectionSort(int *,int,int &)" (?selectionSort@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "void __cdecl selectionSortV(int *,int)" (?selectionSortV@@YAXPAHH@Z) уже определен в Functions.obj
+Task3.obj : error LNK2005: "int * __cdecl simpleNumeralsArray(int *,int,int &)" (?simpleNumeralsArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "void __cdecl InputingArray(int * const,int)" (?InputingArray@@YAXQAHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int __cdecl deletingSimpleNumerals(int *,int)" (?deletingSimpleNumerals@@YAHPAHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int __cdecl indexOfMinElementInArray(int *,int,int)" (?indexOfMinElementInArray@@YAHPAHHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "void __cdecl initRandom(int * const,int,int,int)" (?initRandom@@YAXQAHHHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "bool __cdecl isItSimple(int)" (?isItSimple@@YA_NH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int __cdecl isSubstring(int *,int *,int,int)" (?isSubstring@@YAHPAH0HH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int * __cdecl medianOfArray(int *,int,int &)" (?medianOfArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int __cdecl minInTheArray(int * const,int,int)" (?minInTheArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "void __cdecl output(int *,int,char * const)" (?output@@YAXPAHHQAD@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int __cdecl searchingValueInArray(int * const,int,int)" (?searchingValueInArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int * __cdecl selectionSort(int *,int,int &)" (?selectionSort@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "void __cdecl selectionSortV(int *,int)" (?selectionSortV@@YAXPAHH@Z) уже определен в Functions.obj
+Task4.obj : error LNK2005: "int * __cdecl simpleNumeralsArray(int *,int,int &)" (?simpleNumeralsArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "void __cdecl InputingArray(int * const,int)" (?InputingArray@@YAXQAHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int __cdecl deletingSimpleNumerals(int *,int)" (?deletingSimpleNumerals@@YAHPAHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int __cdecl indexOfMinElementInArray(int *,int,int)" (?indexOfMinElementInArray@@YAHPAHHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "void __cdecl initRandom(int * const,int,int,int)" (?initRandom@@YAXQAHHHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "bool __cdecl isItSimple(int)" (?isItSimple@@YA_NH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int __cdecl isSubstring(int *,int *,int,int)" (?isSubstring@@YAHPAH0HH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int * __cdecl medianOfArray(int *,int,int &)" (?medianOfArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int __cdecl minInTheArray(int * const,int,int)" (?minInTheArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "void __cdecl output(int *,int,char * const)" (?output@@YAXPAHHQAD@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int __cdecl searchingValueInArray(int * const,int,int)" (?searchingValueInArray@@YAHQAHHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int * __cdecl selectionSort(int *,int,int &)" (?selectionSort@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "void __cdecl selectionSortV(int *,int)" (?selectionSortV@@YAXPAHH@Z) уже определен в Functions.obj
+Task5.obj : error LNK2005: "int * __cdecl simpleNumeralsArray(int *,int,int &)" (?simpleNumeralsArray@@YAPAHPAHHAAH@Z) уже определен в Functions.obj
+LINK : fatal error LNK1561: точка входа должна быть определена

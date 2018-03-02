@@ -1,0 +1,11 @@
+10
+Sidorov		1	5.6
+Markin		2	4.5
+Garski		2	9.4
+Petrov		1	6.7
+Hilin		3	5.7
+Masskiy		1	6.8
+Gridin		2	6.9
+Mahin		3	9.0
+Myntin		4	6.9
+Korsak		4	5.0

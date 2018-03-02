@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Array.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Array<int> &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@AAV?$Array@H@@@Z) в функции _main
+C:\Users\Yaroslav\source\repos\EducatePractice\Debug\Lab1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
